@@ -32,6 +32,7 @@ Judgement
 =========
 
 Each language will be judged on the following criteria:
+
 1.  strlen: how many total characters are involved in the code (including documentation)
 2.  longest line: how many characters on the longest line of code
 3.  time: how long from when the controller was first invoked to its completion
