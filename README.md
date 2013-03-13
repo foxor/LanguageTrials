@@ -42,3 +42,18 @@ Each language will be judged on the following criteria:
 3.  time: how long from when the controller was first invoked to its completion
 4.  writability: how long did the code take to write
 5.  readability: subjective score 1-100, how easy is the code to read
+
+
+The Languages
+=============
+
+1.  Python (implemented)
+2.  Go
+3.  Clojure
+4.  Java
+5.  C++
+6.  C
+7.  Haskell
+8.  Erlang
+9.  Node.js
+10.  Ruby
