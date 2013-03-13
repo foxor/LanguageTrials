@@ -25,7 +25,9 @@ All code must be written in the specified language.
 
 No external libraries are to be used.
 
-Lines may not be broken unless they represent different logical statements, even if allowed by language syntaxz
+Lines may not be broken unless they represent different logical statements, even if allowed by language syntax.
+
+Each randomly generated file will have 5000 random numbers between 1 and 100000, each on a seperate line, and nothing else.
 
 
 Judgement
