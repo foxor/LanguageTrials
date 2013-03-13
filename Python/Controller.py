@@ -34,4 +34,4 @@ if __name__ == '__main__':
     proc.join()
   server.join()
   merge_populations(pops)
-  print pops[0][0]
+  print int(pops[0][0])
