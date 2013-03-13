@@ -29,6 +29,8 @@ Lines may not be broken unless they represent different logical statements, even
 
 Each randomly generated file will have 5000 random numbers between 1 and 100000, each on a seperate line, and nothing else.
 
+Each client process will calculate the statistics of only one file, using the simple two step approach, and the controller will combine the populations.
+
 
 Judgement
 =========
