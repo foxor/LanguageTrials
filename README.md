@@ -37,10 +37,10 @@ Judgement
 
 Each language will be judged on the following criteria:
 
-1.  strlen: how many total characters are involved in the code (including documentation).  Project with the fewest scores 100, project with the most scores 0, all others are lerp
-2.  longest line: how many characters on the longest line of code.  Project with the shortest scores 100, project with the longest scores 0, all others are lerp
+1.  strlen: how many total characters are involved in the code (including documentation).  Project with the fewest scores 100, project with the most scores 0, others lerp
+2.  longest line: how many characters on the longest line of code.  Project with the shortest scores 100, project with the longest scores 0, others lerp
 3.  readability: subjective score 1-100, how easy is the code to read
-4.  reusability: % of characters in the codebase that change if this code is changed to give the maximum number instead of the standard deviation
+4.  reusability: % of characters in the codebase that change to return maximum number and the standard deviation.  Lowest % scores 100, highest scores 0, others lerp
 5.  writability: subjective score 1-100 how easy was the code to write
 
 All scores are then averaged for a final score.
