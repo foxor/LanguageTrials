@@ -37,11 +37,13 @@ Judgement
 
 Each language will be judged on the following criteria:
 
-1.  strlen: how many total characters are involved in the code (including documentation)
-2.  longest line: how many characters on the longest line of code
-3.  time: how long from when the controller was first invoked to its completion
-4.  writability: how long did the code take to write
-5.  readability: subjective score 1-100, how easy is the code to read
+1.  strlen: how many total characters are involved in the code (including documentation).  Project with the fewest scores 100, project with the most scores 0, all others are lerp
+2.  longest line: how many characters on the longest line of code.  Project with the shortest scores 100, project with the longest scores 0, all others are lerp
+3.  readability: subjective score 1-100, how easy is the code to read
+4.  reusability: % of characters in the codebase that change if this code is changed to give the maximum number instead of the standard deviation
+5.  writability: subjective score 1-100 how easy was the code to write
+
+All scores are then averaged for a final score.
 
 
 The Languages
