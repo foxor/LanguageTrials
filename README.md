@@ -54,7 +54,7 @@ The Languages
 1.  Python (implemented)
 2.  Go
 3.  Clojure
-4.  Java
+4.  Java (implemented)
 5.  C++
 6.  C
 7.  Haskell
