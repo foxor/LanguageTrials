@@ -42,6 +42,8 @@ Each language will be judged on the following criteria:
 3.  readability: subjective score 1-100, how easy is the code to read
 4.  reusability: % of characters in the codebase that change to return maximum number and the standard deviation.  Lowest % scores 100, highest scores 0, others lerp
 5.  writability: subjective score 1-100 how easy was the code to write
+6.  dirtiness: number of naked numbers in the code.  Most gets 0, least gets 100, others lerp
+7.  verbocity: number of named variables in the code.  Most gets 0, least gets 100, others lerp
 
 All scores are then averaged for a final score.
 
