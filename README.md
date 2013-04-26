@@ -60,3 +60,4 @@ The Languages
 8.  Erlang
 9.  Node.js
 10.  Ruby
+11.  Scala
